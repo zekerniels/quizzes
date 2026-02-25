@@ -29,3 +29,4 @@ kaas
 
 # vierkant
 taarten zijn niet vierkant
+de doos is vierkant, de taart zelf is een circkel en de taart punt is driehoek
