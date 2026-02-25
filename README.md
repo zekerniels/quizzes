@@ -26,3 +26,6 @@ kaas
 kaas
 kaas
 # HAHAHAHAAHAHAHAHAHAAHAHAHAHAHAAHAHAHAHAHAAHAHAHAHAHAAHAHAHAHAH
+
+# vierkant
+taarten zijn niet vierkant
